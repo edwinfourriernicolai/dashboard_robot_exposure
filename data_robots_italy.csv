@@ -1,0 +1,170 @@
+year,ifr_act,ifr,robots_it
+2006,111,Metal casting,3831.329328040625
+2006,112,Plastic moulding,11955.26402746486
+2006,113,"Stamping forging, bending",1709.248900332582
+2006,114,Handling operations at machine tools,9697.328326717448
+2006,115,Machine tending for other processes,324.3676286521475
+2006,116,"Measurement, inspection, testing",1416.475521224475
+2006,117,Palletizing,2903.511533097307
+2006,118,"Packaging, picking, placing",156.9181060687337
+2006,119,Material handling,5404.722955333834
+2006,160,Welding and soldering,11278.09394557093
+2006,170,Dispensing,2089.433036512534
+2006,190,Processing,5064.558201909666
+2006,200,Assembling and disassembling,3066.748489074849
+2007,111,Metal casting,4132.636197596614
+2007,112,Plastic moulding,13123.30136214666
+2007,113,"Stamping forging, bending",1830.302625290182
+2007,114,Handling operations at machine tools,9619.338897992626
+2007,115,Machine tending for other processes,401.5942578178342
+2007,116,"Measurement, inspection, testing",1378.24626177796
+2007,117,Palletizing,3186.471715826847
+2007,118,"Packaging, picking, placing",258.6182916837362
+2007,119,Material handling,4953.696708999044
+2007,160,Welding and soldering,11980.54492694251
+2007,170,Dispensing,2044.766574491329
+2007,190,Processing,5294.31592243616
+2007,200,Assembling and disassembling,3385.166256998498
+2008,111,Metal casting,3847.926852005993
+2008,112,Plastic moulding,12913.54175129016
+2008,113,"Stamping forging, bending",1896.673164641252
+2008,114,Handling operations at machine tools,9588.328366905278
+2008,115,Machine tending for other processes,426.1479274180123
+2008,116,"Measurement, inspection, testing",1370.810820709173
+2008,117,Palletizing,3505.748959547195
+2008,118,"Packaging, picking, placing",545.8052272348926
+2008,119,Material handling,5661.679607125021
+2008,160,Welding and soldering,12485.29457299817
+2008,170,Dispensing,2104.499001165307
+2008,190,Processing,5279.615948060596
+2008,200,Assembling and disassembling,3424.927800898951
+2009,111,Metal casting,3551.373734305387
+2009,112,Plastic moulding,12401.97269474821
+2009,113,"Stamping forging, bending",1858.142601593088
+2009,114,Handling operations at machine tools,9313.82162143918
+2009,115,Machine tending for other processes,590.3200351019306
+2009,116,"Measurement, inspection, testing",1221.605339543675
+2009,117,Palletizing,3616.498008640475
+2009,118,"Packaging, picking, placing",766.7858107195896
+2009,119,Material handling,6008.239503172675
+2009,160,Welding and soldering,12371.51134062373
+2009,170,Dispensing,2071.372080464425
+2009,190,Processing,4963.099939246658
+2009,200,Assembling and disassembling,3507.257290400972
+2010,111,Metal casting,3295.235974678018
+2010,112,Plastic moulding,11649.59138918274
+2010,113,"Stamping forging, bending",1772.262959044884
+2010,114,Handling operations at machine tools,9402.839588265915
+2010,115,Machine tending for other processes,696.5454301210686
+2010,116,"Measurement, inspection, testing",1098.761137138347
+2010,117,Palletizing,3892.274914781791
+2010,118,"Packaging, picking, placing",1158.465031148725
+2010,119,Material handling,6562.191157456384
+2010,160,Welding and soldering,12398.50865615502
+2010,170,Dispensing,2045.643947408191
+2010,190,Processing,4754.315349352677
+2010,200,Assembling and disassembling,3651.364465266233
+2011,111,Metal casting,2876.22767782075
+2011,112,Plastic moulding,10791.08710274088
+2011,113,"Stamping forging, bending",1657.912897259122
+2011,114,Handling operations at machine tools,9519.392550865983
+2011,115,Machine tending for other processes,806.9765427946863
+2011,116,"Measurement, inspection, testing",1019.448965865142
+2011,117,Palletizing,4113.382377669413
+2011,118,"Packaging, picking, placing",1598.253152850177
+2011,119,Material handling,7154.98268034303
+2011,160,Welding and soldering,12458.41995964352
+2011,170,Dispensing,2098.55767613923
+2011,190,Processing,4274.568353791828
+2011,200,Assembling and disassembling,3875.790062216243
+2012,111,Metal casting,2824.875
+2012,112,Plastic moulding,9728.379310344828
+2012,113,"Stamping forging, bending",1438.099137931034
+2012,114,Handling operations at machine tools,9054.89224137931
+2012,115,Machine tending for other processes,907.0603448275862
+2012,116,"Measurement, inspection, testing",919.6293103448276
+2012,117,Palletizing,4221.077586206897
+2012,118,"Packaging, picking, placing",1962.853448275862
+2012,119,Material handling,7982.34051724138
+2012,160,Welding and soldering,11919.56896551724
+2012,170,Dispensing,2043.504310344828
+2012,190,Processing,3790.59051724138
+2012,200,Assembling and disassembling,3957.129310344827
+2013,111,Metal casting,2926.126946957601
+2013,112,Plastic moulding,8746.939648749334
+2013,113,"Stamping forging, bending",1196.861380166755
+2013,114,Handling operations at machine tools,7924.228454851872
+2013,115,Machine tending for other processes,1097.297605109101
+2013,116,"Measurement, inspection, testing",808.0386375731772
+2013,117,Palletizing,4266.569771154869
+2013,118,"Packaging, picking, placing",2320.359978712081
+2013,119,Material handling,9027.814298385667
+2013,160,Welding and soldering,11368.08703210928
+2013,170,Dispensing,1940.969593755544
+2013,190,Processing,3501.500762817102
+2013,200,Assembling and disassembling,3953.205889657619
+2014,111,Metal casting,2724.351444723618
+2014,112,Plastic moulding,8301.443310301507
+2014,113,"Stamping forging, bending",1156.54459798995
+2014,114,Handling operations at machine tools,7646.972675879397
+2014,115,Machine tending for other processes,1121.054962311558
+2014,116,"Measurement, inspection, testing",1011.454616834171
+2014,117,Palletizing,4561.461997487437
+2014,118,"Packaging, picking, placing",2733.745760050251
+2014,119,Material handling,9806.621388190955
+2014,160,Welding and soldering,11667.73963567839
+2014,170,Dispensing,2067.793184673367
+2014,190,Processing,2891.361494974874
+2014,200,Assembling and disassembling,4132.454930904522
+2015,111,Metal casting,2828.704661802473
+2015,112,Plastic moulding,8226.590234195623
+2015,113,"Stamping forging, bending",1072.489718863207
+2015,114,Handling operations at machine tools,6709.053761246322
+2015,115,Machine tending for other processes,1299.703284181166
+2015,116,"Measurement, inspection, testing",1110.011225062503
+2015,117,Palletizing,5083.121825943501
+2015,118,"Packaging, picking, placing",3184.116706634692
+2015,119,Material handling,10856.22246032961
+2015,160,Welding and soldering,11813.02086841165
+2015,170,Dispensing,2134.556797115499
+2015,190,Processing,2509.771859108458
+2015,200,Assembling and disassembling,4454.636597105295
+2016,111,Metal casting,2799.037164706079
+2016,112,Plastic moulding,8147.846588912502
+2016,113,"Stamping forging, bending",981.4805642475862
+2016,114,Handling operations at machine tools,6311.595120563578
+2016,115,Machine tending for other processes,1373.03418617493
+2016,116,"Measurement, inspection, testing",1142.464148859624
+2016,117,Palletizing,5274.029952644702
+2016,118,"Packaging, picking, placing",4042.245879419688
+2016,119,Material handling,11872.27971419488
+2016,160,Welding and soldering,11195.11005505263
+2016,170,Dispensing,2067.86010943592
+2016,190,Processing,2074.091732066063
+2016,200,Assembling and disassembling,4786.924783721825
+2017,111,Metal casting,2952.156857972708
+2017,112,Plastic moulding,7823.999432085544
+2017,113,"Stamping forging, bending",988.5806681919227
+2017,114,Handling operations at machine tools,7314.033928832206
+2017,115,Machine tending for other processes,1204.898002563728
+2017,116,"Measurement, inspection, testing",1382.54991968067
+2017,117,Palletizing,5632.61078388421
+2017,118,"Packaging, picking, placing",5005.604017589122
+2017,119,Material handling,12665.53667916078
+2017,160,Welding and soldering,10792.87647049279
+2017,170,Dispensing,2068.077317496633
+2017,190,Processing,2062.852261110841
+2017,200,Assembling and disassembling,4509.223660938844
+2018,111,Metal casting,3180.085560842756
+2018,112,Plastic moulding,7935.403124378414
+2018,113,"Stamping forging, bending",1038.870266383096
+2018,114,Handling operations at machine tools,8111.016631730343
+2018,115,Machine tending for other processes,1321.332955919029
+2018,116,"Measurement, inspection, testing",1587.926955031596
+2018,117,Palletizing,6294.580534602262
+2018,118,"Packaging, picking, placing",5969.801337270683
+2018,119,Material handling,13519.06632801383
+2018,160,Welding and soldering,10626.73302018147
+2018,170,Dispensing,2056.582278868369
+2018,190,Processing,2202.574230763346
+2018,200,Assembling and disassembling,5298.026776014811
