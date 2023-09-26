@@ -72,7 +72,7 @@ if (selected_prof is None):
 else:
     st.write("Professione selezionata: {}".format(selected_prof))
     st.write("La professione è esposta ai robot: {}".format("Sì" if robot_exposure else "No"))
-    st.write("I robots sono complementari: {}".format("Sì" if complementary else "No"))
+    st.write("I robot sono complementari: {}".format("Sì" if complementary else "No"))
     if (not pd.isna(application_cat)):
         st.write("L'applicazione dei robots è: {} (codice IFR: {})".format(application_cat, robot_cat))
 
@@ -88,7 +88,7 @@ chart = (
         opacity=alt.condition(
             alt.datum.ifr_act == selected_cat,
             alt.value(1),
-            alt.value(0.3) 
+            alt.value(0.2) 
         ),
         tooltip=[alt.Tooltip("robots_it:Q", title="Numero di robot installati"), alt.Tooltip("year:O", title="Anno")],
     ).properties(title=["Numero di robot installati per anno con applicazione in:","{}".format(selected_app)])
@@ -107,6 +107,7 @@ st.write("We use the information contained in the 2013 Italian National Institut
 
 st.subheader("References")
 st.markdown("- Caselli, M., Fracasso, A., Scicchitano, S., Traverso, S., Tundis, E. (2021). Stop worrying and love the robot: An activity-based approach to assess the impact of robotization on employment dynamics. GLO Discussion Paper Series 802, Global Labor Organization (GLO).")
+st.markdown("- International Federation of Robotics (2021). World Robotics - Industrial Robots. Frankfurt am Main, Germany.")
 
 
 
@@ -122,3 +123,5 @@ st.write("- Enrico Tundis, Ispat, Italy")
 
 st.write("Contact: mauro.caselli@unitn.it")
 
+
+st.write("We would like to thank Edwin Fourrier-Nicolaï for his help in creating this dashboard.")
